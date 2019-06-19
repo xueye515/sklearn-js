@@ -1,0 +1,19 @@
+{
+  "name": "sklearn_js",
+  "version": "1.0.0",
+  "description": "learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xueye515/sklearn-js.git"
+  },
+  "author": "xueye515",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xueye515/sklearn-js/issues"
+  },
+  "homepage": "https://github.com/xueye515/sklearn-js#readme"
+}
